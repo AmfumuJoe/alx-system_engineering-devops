@@ -1,2 +1,2 @@
-^!#/bin/bash
+#!/bin/bash
 tmp_dir=$(mktemp -d -t ci-XXXXXX
