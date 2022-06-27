@@ -1,2 +1,1 @@
-#!/bin/bash
-mktemp -d myfirstdirectory-XXX
+#!/bin/bash\nmkdir  -p tmp/myfirstdirectory
