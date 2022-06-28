@@ -1,1 +1,2 @@
-#!/bin/bash\nmkdir  -p tmp/myfirstdirectory
+#!/bin/bash
+mkdir /tmp/my_first-directory
