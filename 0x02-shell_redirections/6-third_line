@@ -1,1 +1,2 @@
-#!/bin/bash/nhead -n 3 iacta
+#!/bin/bash
+head -n 3 iacta
